@@ -1,10 +1,8 @@
-// devyniolikta d uzduotis
+// dvidesimta uzduotis
 
 
-
-function time() {
+function tortogGabalas(tortuKiekis, zmoniuKiekis, tortoSvoris) {
   // your code goes here
 }
 
-time(8, 11, 45);
-time(22, 1, 45);
+console.log(tortoGabalas(3, 17, 1)); // 166
